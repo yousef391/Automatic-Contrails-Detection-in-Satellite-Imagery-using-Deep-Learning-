@@ -244,29 +244,13 @@ Analyse approfondie pour :
 
 ---
 
-## 📝 Auteur
 
-Projet développé dans le cadre d'une candidature pour un stage de recherche.
-
----
-
-## 📄 License
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
----
 
 ## 🙏 Remerciements
 
 - **ONERA** pour le contexte d'application
 - **PyTorch Team** pour le framework
 - **ImageNet** pour les poids pré-entraînés
-
----
-
-## 📧 Contact
-
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue.
 
 ---
 
